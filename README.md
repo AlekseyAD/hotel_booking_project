@@ -16,6 +16,7 @@
         выполняем **docker compose up**
 
 - После выполнения доступны:
+
         localhost:3000 - fromtend
 
         localhost:4000 - backend
@@ -27,7 +28,7 @@
     Admin - role: 'admin' - login: admin@mail.ru; password: admin@mail.ru;
 
     Manager - role: 'manager' - login: manager@mail.ru; password: manager@mail.ru;
-    
+
     Client - role: 'client' - login: client@mail.ru; password: client@mail.ru;
 
     По умолчанию добавлены гостиницы и номера.
