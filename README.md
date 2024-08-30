@@ -9,6 +9,7 @@
 ### Руководство по проекту:
 
 - Клонируем проект:
+
 **"git clone https://github.com/AlekseyAD/hotel_booking_project.git"**
 
 - Переходим в папку проекта (должен быть запущен DOCKER):
