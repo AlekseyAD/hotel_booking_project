@@ -25,6 +25,7 @@
 
 - Реализация и доступы:
     По умолчанию реализованы доступы:
+    
     Admin - role: 'admin' - login: admin@mail.ru; password: admin@mail.ru;
 
     Manager - role: 'manager' - login: manager@mail.ru; password: manager@mail.ru;
